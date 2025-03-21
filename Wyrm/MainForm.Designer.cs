@@ -416,7 +416,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::WC3LanGame.Properties.Resources.WarcraftBackgroundImage;
+            this.BackgroundImage = global::Wyrm.Properties.Resources.WarcraftBackgroundImage;
             this.ClientSize = new System.Drawing.Size(624, 321);
             this.Controls.Add(this.proxyActiveLabel);
             this.Controls.Add(this.stopWC3Button);
